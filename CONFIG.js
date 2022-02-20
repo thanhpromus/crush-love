@@ -1,5 +1,5 @@
 const CONFIGDATA = {
-  titleHeader: "Làm người yêu tớ nhé I Love You 3000 (Mấy ông con trai thì thôi, tôi không chơi gay :>)",
+  titleHeader: "Làm người yêu tớ nhé I Love You 3000 </br> (Mấy ông con trai thì thôi, tôi không chơi gay :>)",
   descriptionHeader:
     "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
   buttonYes: "Đồng Ý",
